@@ -1,4 +1,7 @@
-print('Vamos realizar uma soma!')
+#Crie um programa que leia dois números e mostre a soma entre eles.
+
+#==========================================================
+
 num1 = int(input('Digite um Número:'))
 num2 = int(input('Digite outro Número:'))
 

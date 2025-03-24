@@ -1,3 +1,7 @@
+#Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a média.
+
+#==========================================================
+
 #Neste exercício vamos descobrir a média de um aluno, para isso vou utilizar o sistema de notas da minha faculdade (UNDB).
 print('- A AVQUALIS é uma nota qualitativa que vale até 4.0\n- A P1 e P2 são notas de provas que valem até 6.0 cada uma\n\nA soma dessas 2 notas juntas somarão a nota máxima de 10, essa nota\né dada na N1 (que é feita no primeiro bimestre) e a N2 segue a mesma lógica, mas é a nota do segundo bimestre \n')
 name = (input('Qual o nome do aluno?'))
