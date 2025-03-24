@@ -1,5 +1,4 @@
 #Faça um programa que leia um número inteiro e mostre o seu sucessor e o seu antecessor.
-
 #==========================================================
 
 num = int(input('Digite o seu número favorito:'))

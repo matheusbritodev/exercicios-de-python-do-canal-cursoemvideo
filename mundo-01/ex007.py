@@ -1,5 +1,4 @@
 #Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a média.
-
 #==========================================================
 
 #Neste exercício vamos descobrir a média de um aluno, para isso vou utilizar o sistema de notas da minha faculdade (UNDB).

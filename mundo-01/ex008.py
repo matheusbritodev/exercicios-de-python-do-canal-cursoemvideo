@@ -1,5 +1,4 @@
 #Escreva um programa que leia o valor em metros e exiba convertido em centímetros e milimetros.
-
 #==========================================================
 
 num = float(input('Digite um valor em metros: '))
