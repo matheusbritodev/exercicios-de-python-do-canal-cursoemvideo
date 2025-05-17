@@ -3,7 +3,7 @@
 
 num = int(input('Digite um número inteiro: '))
 print('-' * 17,
-      '\n{} x {:2} = '.format(num, 1),num * 1,
+      '\n{} x {:2} = '.format(num, 1), num * 1,
       '\n{} x {:2} = '.format(num, 2), num * 2,
       '\n{} x {:2} = '.format(num, 3), num * 3,
       '\n{} x {:2} = '.format(num, 4), num * 4,
