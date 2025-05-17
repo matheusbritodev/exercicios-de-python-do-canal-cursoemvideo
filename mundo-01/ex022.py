@@ -10,5 +10,4 @@ print('Seu nome em letras MAIÚSCULAS = {}'.format(name.upper()))
 print('Seu nome em letras minúsculas = {}'.format(name.lower()))
 print('Quantas letras tem o seu nome completo = {}'.format(len(name.replace(' ', ''))))
 print('Quantas letras tem apenas o primeiro nome = {}'.format(len(name.split()[0])))
-#
-#==========================================================
+
